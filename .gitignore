@@ -1,0 +1,30 @@
+# Java
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/.mvn/
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+
+# IntelliJ
+.idea/
+*.iml
+
+# Node
+/node_modules/
+/.next/
+/out/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
